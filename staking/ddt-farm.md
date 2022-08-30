@@ -12,6 +12,6 @@ Reward from another chef send to dev wallet and use for buyback
 
 User can see buyback tx on main page
 
-### Token UseCase
+### DDT UseCase
 
 DDT token use for reward&#x20;
