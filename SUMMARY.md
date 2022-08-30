@@ -14,6 +14,8 @@
 * [🔒 Security](resources/security.md)
 * [🛣 Roadmap](resources/roadmap.md)
 
-## Group 1
+## Staking
 
-* [Page 1](group-1/page-1.md)
+* [NFT Stake](staking/nft-stake.md)
+* [DDT Farm](staking/ddt-farm.md)
+* [NFT Farm](staking/nft-farm.md)
