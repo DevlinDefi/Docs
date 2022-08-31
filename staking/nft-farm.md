@@ -1,8 +1,8 @@
-# 👩🌾 NFT Farm
+# 👩 NFT Farm
 
 ### Description
 
-User can earn power by deposited LP and Token&#x20;
+User can earn power by deposited LP and Token
 
 Power in not a token
 

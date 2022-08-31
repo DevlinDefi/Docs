@@ -11,7 +11,7 @@
 ## Staking
 
 * [🚜 DDT Farm](staking/ddt-farm.md)
-* [👩🌾 NFT Farm](staking/nft-farm.md)
+* [👩 NFT Farm](staking/nft-farm.md)
 * [🖼 NFT Stake](staking/nft-stake.md)
 
 ## Resources
